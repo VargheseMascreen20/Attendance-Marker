@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Attendance tracker</string>
+    <string name="heading">Mark Attendance</string>
+    <string name="name">Student Name</string>
+    <string name="subject">Subject</string>
+    <string name="date">Date</string>
+    <string name="noOfHours">No of Hours</string>
+    <string name="status">Absent/Present</string>
+    <string name="button_text">Mark Attendance</string>
+</resources>
